@@ -66,21 +66,7 @@
     "objectID": "projects.html#communication-performance-dashboard-practicum",
     "href": "projects.html#communication-performance-dashboard-practicum",
     "title": "Projects",
-    "section": "📬 Communication Performance Dashboard (Practicum)",
-    "text": "📬 Communication Performance Dashboard (Practicum)\nProblem: Quantify email/phone response metrics and categorize communications using NLP.\nApproach: Logging/ETL + NLP classification + Shiny dashboard for exploration and reporting.\nResult: A repeatable measurement system with actionable breakdowns.\nLinks:\n Communications Dashboard (PDF)"
-  },
-  {
-    "objectID": "projects.html#surplus-lines-market-analytics-sltx",
-    "href": "projects.html#surplus-lines-market-analytics-sltx",
-    "title": "Projects",
-    "section": "📊 Surplus Lines Market Analytics (SLTX)",
-    "text": "📊 Surplus Lines Market Analytics (SLTX)\nProblem: Support regulated-market reporting and stakeholder requests with reliable, explainable analytics.\nApproach: Data pipelines + dashboards + ad hoc analysis, optimized for accuracy and speed of delivery.\nResult: Consistent reporting outputs and interactive tools used for decision-making.\nLinks:\n- Example dashboard screenshots: ADD_LINK_OR_IMAGES\n- (Optional) Public-friendly write-up: ADD_LINK"
-  },
-  {
-    "objectID": "projects.html#premium-forecasting-cpi-adjusted",
-    "href": "projects.html#premium-forecasting-cpi-adjusted",
-    "title": "Projects",
-    "section": "📈 Premium Forecasting (CPI-Adjusted)",
-    "text": "📈 Premium Forecasting (CPI-Adjusted)\nProblem: Forecast monthly premium volume (and downstream revenue implications) while accounting for inflation and rate changes.\nApproach: Time-series baselines (ETS/ARIMA/naive), ensembles, CPI adjustment; evaluation via rolling origin / CV.\nResult: A forecast framework that is explainable and maintainable, not just “black box.”\nLinks:\n- Repo: https://github.com/cmrobinson1992 - (Optional) Notebook/report: ADD_LINK"
+    "section": "Communication Performance Dashboard (Practicum)",
+    "text": "Communication Performance Dashboard (Practicum)\nProblem: Quantify email/phone response metrics and categorize communications using NLP.\nApproach: Logging/ETL + NLP classification + Shiny dashboard for exploration and reporting.\nResult: A repeatable measurement system with actionable breakdowns.\nLinks:\n Communications Dashboard (PDF)"
   }
 ]
