@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "If the embedded PDF doesn’t load, use this direct link: Download / Open Resume."
+  },
+  {
+    "objectID": "resume.html#resume-pdf",
+    "href": "resume.html#resume-pdf",
+    "title": "Resume",
+    "section": "",
+    "text": "If the embedded PDF doesn’t load, use this direct link: Download / Open Resume."
+  },
+  {
+    "objectID": "practicum.html",
+    "href": "practicum.html",
+    "title": "Practicum",
+    "section": "",
+    "text": "If the embedded PDF doesn’t load, use this direct link: Download / Open Resume."
+  },
+  {
+    "objectID": "practicum.html#practicum-pdf",
+    "href": "practicum.html#practicum-pdf",
+    "title": "Practicum",
+    "section": "",
+    "text": "If the embedded PDF doesn’t load, use this direct link: Download / Open Resume."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m a senior data analyst with experience building analytics platforms, dashboards, and predictive models in regulated environments.\nI focus on translating messy, real-world data into tools that stakeholders actually use—without over-engineering.\nCore strengths - Product-minded analytics (what decisions does this change?) - Reproducible reporting (Quarto / pipelines) - Clear communication (exec-ready summaries + technical depth)\nLinks - GitHub: https://github.com/cmrobinson1992 - LinkedIn: https://www.linkedin.com/in/christian-robinson-4457949a/ - Email: mailto::christian.m.robinson@gmail.com"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Christian Robinson",
+    "section": "",
+    "text": "I build analytics products, dashboards, and ML tools that turn complex data into decisions.\n\nView Projects Resume\n\n\n\n\n\n\n\nClassification models estimating Hall of Fame induction probability using career, peak, and era-adjusted features.\nLinks:  Live App  ·  Github \n\n\n\nQuantifying internal communication metrics, using NLP models to classify subjects for targeted educational strategies. Links: Analysis\n\n\n\nTime-series forecasting of monthly premiums using ETS/ARIMA baselines and inflation adjustment.\nLinks: Case Study\n\n\n\n\n\n\nEnd-to-end data science ownership — framing ambiguous problems, designing the right analysis or model, and delivering outputs that influence real decisions.\nModeling with intent — selecting methods based on business constraints, data realities, and interpretability needs.\nTranslating complexity for stakeholders — turning technical results into clear narratives for executives, regulators, and non-technical partners.\nProduction-minded analytics — building models, forecasts, and dashboards that are reproducible, monitored, and maintainable over time.\nKnowing when not to model — applying simpler analytical approaches when they are more robust, explainable, or operationally appropriate."
+  },
+  {
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "Christian Robinson",
+    "section": "",
+    "text": "Classification models estimating Hall of Fame induction probability using career, peak, and era-adjusted features.\nLinks:  Live App  ·  Github \n\n\n\nQuantifying internal communication metrics, using NLP models to classify subjects for targeted educational strategies. Links: Analysis\n\n\n\nTime-series forecasting of monthly premiums using ETS/ARIMA baselines and inflation adjustment.\nLinks: Case Study"
+  },
+  {
+    "objectID": "index.html#what-im-best-at",
+    "href": "index.html#what-im-best-at",
+    "title": "Christian Robinson",
+    "section": "",
+    "text": "End-to-end data science ownership — framing ambiguous problems, designing the right analysis or model, and delivering outputs that influence real decisions.\nModeling with intent — selecting methods based on business constraints, data realities, and interpretability needs.\nTranslating complexity for stakeholders — turning technical results into clear narratives for executives, regulators, and non-technical partners.\nProduction-minded analytics — building models, forecasts, and dashboards that are reproducible, monitored, and maintainable over time.\nKnowing when not to model — applying simpler analytical approaches when they are more robust, explainable, or operationally appropriate."
+  },
+  {
+    "objectID": "projects.html#mlb-hall-of-fame-predictor",
+    "href": "projects.html#mlb-hall-of-fame-predictor",
+    "title": "Projects",
+    "section": "🏆 MLB Hall of Fame Predictor",
+    "text": "🏆 MLB Hall of Fame Predictor\nProblem: Predict Hall of Fame induction probability for current MLB players given performance through current age. Approach: Feature engineering (career + peak windows), multiple classifiers, careful evaluation, interpretability.\nResult: A live, interactive app that supports scenario-style questions and exploration.\nLinks:\n Live App  - GitHub: https://github.com/cmrobinson1992/mlb_hof_prediction"
+  },
+  {
+    "objectID": "projects.html#communication-performance-dashboard-practicum",
+    "href": "projects.html#communication-performance-dashboard-practicum",
+    "title": "Projects",
+    "section": "📬 Communication Performance Dashboard (Practicum)",
+    "text": "📬 Communication Performance Dashboard (Practicum)\nProblem: Quantify email/phone response metrics and categorize communications using NLP.\nApproach: Logging/ETL + NLP classification + Shiny dashboard for exploration and reporting.\nResult: A repeatable measurement system with actionable breakdowns.\nLinks:\n Communications Dashboard (PDF)"
+  },
+  {
+    "objectID": "projects.html#surplus-lines-market-analytics-sltx",
+    "href": "projects.html#surplus-lines-market-analytics-sltx",
+    "title": "Projects",
+    "section": "📊 Surplus Lines Market Analytics (SLTX)",
+    "text": "📊 Surplus Lines Market Analytics (SLTX)\nProblem: Support regulated-market reporting and stakeholder requests with reliable, explainable analytics.\nApproach: Data pipelines + dashboards + ad hoc analysis, optimized for accuracy and speed of delivery.\nResult: Consistent reporting outputs and interactive tools used for decision-making.\nLinks:\n- Example dashboard screenshots: ADD_LINK_OR_IMAGES\n- (Optional) Public-friendly write-up: ADD_LINK"
+  },
+  {
+    "objectID": "projects.html#premium-forecasting-cpi-adjusted",
+    "href": "projects.html#premium-forecasting-cpi-adjusted",
+    "title": "Projects",
+    "section": "📈 Premium Forecasting (CPI-Adjusted)",
+    "text": "📈 Premium Forecasting (CPI-Adjusted)\nProblem: Forecast monthly premium volume (and downstream revenue implications) while accounting for inflation and rate changes.\nApproach: Time-series baselines (ETS/ARIMA/naive), ensembles, CPI adjustment; evaluation via rolling origin / CV.\nResult: A forecast framework that is explainable and maintainable, not just “black box.”\nLinks:\n- Repo: https://github.com/cmrobinson1992 - (Optional) Notebook/report: ADD_LINK"
+  }
+]
